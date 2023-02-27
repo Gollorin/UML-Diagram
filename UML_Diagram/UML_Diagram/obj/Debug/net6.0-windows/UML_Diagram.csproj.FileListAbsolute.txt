@@ -1,0 +1,164 @@
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.exe
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.deps.json
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.runtimeconfig.json
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.AssemblyReference.cache
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.MainForm.resources
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.GenerateResource.cache
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfo.cs
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\refint\UML_Diagram.dll
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.genruntimeconfig.cache
+C:\Users\Work\Desktop\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\ref\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.exe
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.deps.json
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.runtimeconfig.json
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.MainForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.GenerateResource.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfo.cs
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\refint\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.genruntimeconfig.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\ref\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.StartForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.ExportToCodeForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.TableForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.EndConnectionForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.DeleteLineForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\proj\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CopyComplete
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.exe
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.deps.json
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.runtimeconfig.json
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.DeleteLineForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.EndConnectionForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.ExportToForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.MainForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.StartForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.TableForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.GenerateResource.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfo.cs
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CopyComplete
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\refint\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.genruntimeconfig.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\ref\UML_Diagram.dll
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.exe
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.deps.json
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.runtimeconfig.json
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.AssemblyReference.cache
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.DeleteLineForm.resources
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.EndConnectionForm.resources
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.ExportToForm.resources
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.MainForm.resources
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.StartForm.resources
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.TableForm.resources
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.GenerateResource.cache
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfoInputs.cache
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfo.cs
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CoreCompileInputs.cache
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CopyComplete
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\refint\UML_Diagram.dll
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.genruntimeconfig.cache
+C:\Users\adamsimon\Desktop\tady\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\ref\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.exe
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.deps.json
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.runtimeconfig.json
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.DeleteLineForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.EndConnectionForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.ExportToForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.MainForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.StartForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.TableForm.resources
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.GenerateResource.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfo.cs
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CopyComplete
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\refint\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.genruntimeconfig.cache
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\ref\UML_Diagram.dll
+C:\Users\simon\OneDrive - Soukromá střední škola výpočetní techniky\Plocha\asdf\dhgdfgh\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AddValueForm.resources
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.exe
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.deps.json
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.runtimeconfig.json
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AddValueForm.resources
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.DeleteLineForm.resources
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.EndConnectionForm.resources
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.ExportToForm.resources
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.MainForm.resources
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.StartForm.resources
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.TableForm.resources
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.GenerateResource.cache
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfo.cs
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CopyComplete
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\refint\UML_Diagram.dll
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.genruntimeconfig.cache
+C:\Users\simon\Desktop\jasna paka\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\ref\UML_Diagram.dll
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.exe
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.deps.json
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.runtimeconfig.json
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AddValueForm.resources
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.DeleteLineForm.resources
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.EndConnectionForm.resources
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.ExportToForm.resources
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.MainForm.resources
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.StartForm.resources
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.TableForm.resources
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.GenerateResource.cache
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.AssemblyInfo.cs
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.csproj.CopyComplete
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.dll
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\refint\UML_Diagram.dll
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.pdb
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\UML_Diagram.genruntimeconfig.cache
+C:\Users\simon\Desktop\finish\UML_Diagram\UML_Diagram\obj\Debug\net6.0-windows\ref\UML_Diagram.dll
